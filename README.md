@@ -29,7 +29,8 @@ You may study `testCaclulate1` as a sample. This test case should make a connect
 
 What benefit do we have from having integration tests in our project?
 ```
-Your though here
+Through integration tests, we can know the program we wrote is running correctly or not.
+We can create different test scenarios and can see if our program is running correctly in every conditions.
 ```
 
 
